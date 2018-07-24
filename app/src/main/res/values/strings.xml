@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">SKAMIFY</string>
+    <string name="title_activity_result">ResultActivity</string>
+
 </resources>
